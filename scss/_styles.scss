@@ -1,0 +1,59 @@
+html, body {
+  height: 100%;
+}
+
+.main-nav {
+  background: #f4f6f9;
+}
+
+.main-btn {
+  padding: 10px !important;
+}
+
+
+.main-btn-container {
+  position: absolute;
+  right: 100px;
+}
+
+.main-btn-container-1 {
+  position: absolute;
+  top: 50px;
+}
+
+.small-text {
+  font-size: 12px;
+}
+
+.home-link {
+  font-weight: bolder;
+}
+.main-container {
+  background: linear-gradient(to bottom, #f4f6f9, #f4f6f9, #fafbfc, #fdfdfe); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.circle {
+  height: 500px;
+  width: 500px;
+}
+
+@media (max-width: 768px) {
+  .circle {
+    height: 300px;
+    width: 300px;
+  }
+
+  .small-text {
+    margin-top: 40px;
+  }
+}
+
+
+
+.main-image {
+  z-index: 100;
+}
+
+.icon-background {
+  background-color: #edf3f5;
+}

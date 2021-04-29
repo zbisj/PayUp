@@ -1,0 +1,14 @@
+// Variables
+
+$light: #ffffff;
+$danger: #2944a5;
+$secondary: #d8d5d5;
+$border-radius: 15px;
+$border-radius-sm: 5px;
+$border-radius-lg: 15px;
+
+
+@import 'styles';
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
