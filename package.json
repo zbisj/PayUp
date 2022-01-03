@@ -1,7 +1,7 @@
 {
-  "name": "jobfinder",
+  "name": "PayUp",
   "version": "1.0.0",
-  "description": "A web platform that matches job seekers with employers",
+  "description": "PayUp is a Digital service to manage your digital business easily. Provides payment services worldwide. Save your time.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
